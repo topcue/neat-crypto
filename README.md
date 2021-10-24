@@ -1,4 +1,4 @@
-# NEAT crypto - kr std
+# NEAT Crypto
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
