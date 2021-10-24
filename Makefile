@@ -9,9 +9,5 @@ $N: $N.c
 	@echo "##### [*] build neat"
 	$(CC) $(CFLAGS) -o $@ $^
 
-clean:
-	@rm -rf *.o
-
-
 # EOF
 
