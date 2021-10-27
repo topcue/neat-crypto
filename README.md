@@ -3,14 +3,19 @@
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
   - [Demo](#Demo)
-## About this project
-Reversing and Implementing Korea's standard block cipher **NEAT**(not currently used).
-
 ## Overview
+- Reversing and Implementing Korea's standard block cipher **NEAT**(not currently used).
 - In this project, I reverse and analyze the implementation of NEAT, a private crypto algorithm in Korea's algorithm.
-- detail: [neat-project](https://c11.kr/neat-crypto)
+- Details: [neat-project](https://c11.kr/neat-crypto)
+
+## Related work
+
+Theori had already conducted the following research: [theori-neat](https://blog.theori.io/research/neat-and-nes-algorithms/)
+
+However, due to similar motivation, I conducted the study **without referring to it**.
 
 ## Getting Started
+
 ### Depencies
 None
 
